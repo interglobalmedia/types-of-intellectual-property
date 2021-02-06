@@ -1,0 +1,24 @@
+{
+  "name": "types-of-intellectual-property",
+  "version": "1.0.0",
+  "description": "Types of Intellectual Property",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "reveal-md": "^5.0.0"
+  },
+  "scripts": {
+    "slides": "npx reveal-md types-of-intellectual-property.md",
+    "customcss": "npx reveal-md types-of-intellectual-property.md -w --css custom.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/interglobalmedia/types-of-intellectual-property.git"
+  },
+  "author": "Maria D. Campbell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/interglobalmedia/types-of-intellectual-property/issues"
+  },
+  "homepage": "https://github.com/interglobalmedia/types-of-intellectual-property#readme"
+}
