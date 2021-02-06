@@ -208,6 +208,25 @@ One can ***use*** `CC-licensed` ***materials*** as long as one *`FOLLOWS`* the `
 ---
 
 <section class="section">
+    <h2 class="sentence">Creating a caption for a CC-Licensed image</h2>
+    
+I ***wanted*** to ***create*** a `caption` for a `CC-licensed` (*`Creative Commons`*) `image` I ***found*** in [CC Search](https://search.creativecommons.org/), so I ***wrapped*** the `img element` ***inside*** a `figure element`, and ***under*** the `img element`, I ***added*** a `figcaption element`.
+
+[figure](https://www.w3schools.com/tags/tag_figure.asp): (***aka*** `figure with optional caption`) ***represents*** `self-contained content`, with an ***optional*** `caption` (`figcaption element`). the `figure`, its `caption`, and its `contents` are ***referenced*** as a `single unit`.
+
+***While*** the `content` of the `figure element` is ***related*** to the ***main flow*** of the `document`, its `position` is ***independent*** of the `main flow`, and if ***removed***, it should ***not*** `affect` the ***flow*** of the `document`.
+
+<aside>
+    Note: I should demonstrate via the index.html page and the internal styles inside the style element located in the index.html's head element.
+</aside>
+
+[figcaption](https://www.w3schools.com/tags/tag_figcaption.asp): ***along*** with the `figure element`, the `figcaption element` is `used` to ***define*** a `caption` for a `photo`. It can ***also*** be ***placed*** as the ***first*** or ***last child*** of the `figure element`. This ***means*** it can be ***placed*** either `above` or `below` the ***embedded*** `image`.
+
+</section>
+
+---
+
+<section class="section">
     <h2 class="sentence">Related Resources</h2>
     
 + [Trademarks: WIPO](https://www.wipo.int/trademarks/en/)
@@ -225,5 +244,13 @@ One can ***use*** `CC-licensed` ***materials*** as long as one *`FOLLOWS`* the `
 + [Qualifying for a Patent FAQs: NOLO](https://www.nolo.com/legal-encyclopedia/qualifying-patent-faq.html)
 
 + [What is Creative Commons?: NYU Health Sciences Library](https://hslguides.med.nyu.edu/copyright/creativecommons)
+
++ [About CC Licenses: Creative Commons](https://creativecommons.org/about/cclicenses/)
+
++ [HTML `<figure>` Tag: w3schools](https://www.w3schools.com/tags/tag_figure.asp)
+
++ [`<figure>`: The Figure with Optional Caption element: MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
+
++ [HTML `<figcaption>` Tag: w3schools](https://www.w3schools.com/tags/tag_figcaption.asp)
 
 </section>
