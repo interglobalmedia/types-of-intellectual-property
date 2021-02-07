@@ -6,14 +6,18 @@
 
 <section class="section">
     <h2 class="sentence"><sup>™</sup> Type of intellectual property</h2>
-    
-The <sup class="sup">™</sup> `symbol` can ***generally*** be `used` by ***any*** `person` or `business` to ***indicate*** that a ***particular*** `word`, `phrase`, or `logo` is ***intended*** to `serve` as an ***identifier*** for the `source` of that `product` or `service`. You do ***not*** have to have a `registered trademark` to `use` it, and ***many*** `companies` will ***opt*** to `use` the <sup class="sup">™</sup> `symbol` for ***new*** `goods` or `services` in ***advance*** of and ***during*** the `application process`. 
+
+The <sup class="sup">™</sup> (`TM`) `symbol` ***stands*** for `Trademark`. It is ***used*** for ***all*** `trademarks` that are ***not*** `registered`. ***Unregistered*** `trademarks` *`CANNOT`* be `ASSOCIATED` with the `® `(`R`) `symbol`. ***Doing so*** can ***evoke*** `penalties` ***from*** the `USPTO` if the `company` eventually ***tries*** to ***register*** the `trademark`, ***or*** if the `company` ***tries*** to ***defend against*** `potential infringers` of the ***mark***. ***Instead***, the <sup class="sup">™</sup> (`TM`) `symbol` ***should*** be `used` ***instead*** of the <sup class="sup">® </sup> (`R`) `symbol`, ***until*** the `trademark` IS ***registered***.
+
+The <sup class="sup">™</sup> `symbol` can ***generally*** be `used` by ***any*** `business` to ***indicate*** that a ***particular*** `word`, `phrase`, or `logo` is ***intended*** to `serve` as an ***identifier*** for the `source` of ***that*** `product` or `service`. You do ***not*** have to ***have*** a `registered trademark` to ***use*** it, and ***many*** `companies` will ***opt*** to `use` the <sup class="sup">™</sup> `symbol` for ***new*** `goods` or `services` in ***advance*** of and ***during*** the `application process`. ***Registering*** a `trademark` ***gives*** you ***superior rights*** over ***anyone else*** in the `United States` to ***use*** your `trademark` in the [industry classes](https://idm-tmng.uspto.gov/id-master-list-public.html) ***specified***, and it ***allows*** you to ***potentially*** `obtain` [treble damages](https://en.wikipedia.org/wiki/Treble_damages) ***against*** `infringers`. `Treble` ***means*** `triple` in `United States Law`. ***Refer*** to the `treble damages` ***link*** to ***learn more***.
+
+The <sup class="sup">®</sup> `symbol` ***next*** to a `trademark` ***means*** that the `trademark` is ***officially*** `registered` ***with*** the `U.S. Patent & Trademark Office` (***aka*** `USPTO`).
 
 The <sup class="sup">®</sup> `symbol` ***indicates*** that a ***particular*** `word`, `phrase` or `logo` is a `registered trademark` for the `product` or `service`. It must ***only*** be `used` in the ***case*** of `registered trademarks` and by the `owner` or `licensee`. It also ***must*** only be `used` in the `regions` in which one ***possesses*** a ***valid*** `trademark registration`.
 
 `Trademarks` ***must*** be `registered`, and are ***protected*** by `intellectual property rights`.
 
-`Trademarks` ***can't*** be ***emulated*** by ***other*** `enterprises` and then ***call*** the `emulations` their ***own***. `Trademarks` ***must*** be `unique` in their `representation`. That is ***why*** they have to ***go through*** a `registration process`!
+`Trademarks` ***can't*** be ***emulated*** (***copied***) by ***other*** `enterprises` and then ***call*** the `emulations` their ***own***. `Trademarks` ***must*** be `unique` in their `representation`. That is ***why*** they **have** to ***go through*** a `registration process` to ***make sure*** that the `trademark` that is being ***registered*** is ***not*** `representationally` ***similar*** in ***any way*** to ***any other*** `registered trademark`!!
 
 </section>
 
@@ -27,9 +31,9 @@ The <sup class="sup">®</sup> `symbol` ***indicates*** that a ***particular*** `
 > Online you may see many discussions which tend towards thinking that the use of such symbols is irrelevant (and indeed the registration of a trademark at all) and has no impact on the level of protection you enjoy. Perhaps that it is true in some regions but not in all.
 > -- <cite>[TM versus R - what’s the difference and why does it matter?](https://www.trademarknow.com/blog/tm-versus-r-whats-the-difference-and-why-does-it-matter) -- TrademarkNow</cite>
 
-When a `company` (***or*** `individual`) is ***using*** a `word`, `phrase`, or `logo` as a `trademark` in ***order*** to ***identify*** the `individual` or `company` as the ***source*** of `products` or `services`, the `company` (***or*** `individual`) has the ***option*** in ***many*** `countries` to do this ***without*** `applying` to a `registration` or `trademark`. This is ***known*** as `"Common Law"` ***use***.
+***When*** a `company` is ***using*** a `word`, `phrase`, or `logo` as a `trademark` in ***order*** to ***identify*** the `company` as the ***source*** of `products` or `services`, the `company` has the ***option*** in ***many*** `countries` to ***do*** this ***without*** `applying` for a `registered trademark`. This is ***known*** as `"Common Law"` ***use***.
 
-In `"common law"` ***regions***, a `company` (***or*** `individual`) ***does*** `enjoy` ***some*** `protections`, but they are *NOT* `equal` to the `protections` ***enjoyed*** by the `owner` of a `registered trademark`.
+In `"common law"` ***regions***, a `company` ***does*** `enjoy` ***some*** `protections`, but they are *NOT* `equal` to the `protections` ***enjoyed*** by the `owner` of a `registered trademark`.
 
 </section>
 
@@ -38,7 +42,7 @@ In `"common law"` ***regions***, a `company` (***or*** `individual`) ***does*** 
 <section class="section">
     <h2 class="sentence">Using <sup>™</sup> with an unregistered trademark</h2>
     
-Using the <sup class="sup">™</sup> `symbol` with `unregistered trademarks` can be a ***signal*** to the `public` (and ***potential*** `infringers`) the `company` (***or*** `individual`) has the ***legalities*** of ***protecting*** the `brand` in ***mind***. This ***sometimes*** may `serve` as a ***deterrent*** to `infringement` of the ***mark***.
+Using the <sup class="sup">™</sup> `symbol` with `unregistered trademarks` can be a ***signal*** to the `public` (and ***potential*** `infringers`) the `company` has the ***legalities*** of ***protecting*** the `brand` in ***mind***. This ***sometimes*** may `serve` as a ***deterrent*** to `infringement` of the ***mark***.
 
 In ***addition***, when ***creating*** a `brand`, one is ***creating*** an ***intangible*** but `material asset` of a `company`. 
 
@@ -94,7 +98,7 @@ To ***learn*** more about `registered trademarks` vs `inregistered trademarks`, 
 <section class="section">
     <h2 class="sentence">When work is protected under Copyright law</h2>
     
-***Work*** goes under `copyright protection` the ***moment*** it is ***created*** and ***fixed*** in a `tangible way` (`indisputable proof` of the `creation date`), and it is 
+A ***work*** goes ***under*** `copyright protection` the ***moment*** it is ***created*** and ***fixed*** in a `tangible way` (`indisputable proof` of the `creation date` ***along*** with the `creation` ***itself***), and it is 
 
 > perceptible either directly or with the aid of a machine or device.
 > -- <cite>[Copyright in General](https://www.copyright.gov/help/faq/faq-general.html) -- U.S. Copyright Office, FAQs</cite>
@@ -105,7 +109,7 @@ To ***learn*** more about `registered trademarks` vs `inregistered trademarks`, 
 <section class="section">
     <h2 class="sentence">Does one have to register one's work with the Coyright Office?</h2>
 
-One is ***not*** `required` to `register` ***work*** with the `U.S. Copyright Office`. it is ***voluntary***. ***However***, if one ***wants*** to be ***able*** to `sue` for `infringement` of a `U.S. work`, then one ***DOES*** have to ***register***.
+One is ***not*** `required` to `register` ***work*** with the `U.S. Copyright Office`. It is ***voluntary***. ***However***, if one ***wants*** to be ***able*** to `sue` for `infringement` of a `U.S. work`, then one ***DOES*** have to ***register***.
 
 There are ***other*** reasons one would want to ***register*** one's `work`. To ***learn*** more about ***why***, please ***visit*** the `U.S. Copyright Office`'s article ***entitled*** [Copyright in General](https://www.copyright.gov/help/faq/faq-general.html) ***under*** the ***heading*** *`"Why should I register my work if copyright protection is automatic?"`*.
 
@@ -154,7 +158,7 @@ There are [three types of patents](https://www.uspto.gov/patents/basics):
 
 Their [mission](https://creativecommons.org/about/) is to:
 
-+ ***provide*** `Creative Commons licenses` and `public domain tools` that give ***every*** `person` and `organization` in the ***world*** a `free`, `simple`, and ***standardized*** `way` to ***grant*** `copyright permissions` for `creative` and `academic works`. Ensure ***proper*** `attribution`, and ***allow others*** to `copy`, `distribute`, and `make use` of ***those works***.
++ ***provide*** `Creative Commons licenses` and `public domain tools` that ***give*** `every person` and `organization` in the ***world*** a `free`, `simple`, and ***standardized*** `way` to ***grant*** `copyright permissions` for `creative` and `academic works`. To ensure ***proper*** `attribution`, and ***allow others*** to `copy`, `distribute`, and `make use` of ***those works***.
     
 + Work ***closely*** with` major institutions` and `governments` to `create`, `adopt` and `implement` ***open*** `licensing` and ***ensure*** the `CORRECT USE` of `CC Licenses` and `CC-licensed` ***content***.
 
@@ -186,9 +190,9 @@ Their [mission](https://creativecommons.org/about/) is to:
 
 + The `CC BY-NC` ***License***: (***aka*** `Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)`) this `license` ***allows*** `re-users` to ***distribute***, ***remix***, ***adapt***, and ***build upon*** the `material` in ***any*** `medium` or `format` for `NONCOMMERCIAL` purposes ***only***, and ***only*** so long as `ATTRIBUTION` is *`GIVEN`* to the `CREATOR`. To ***learn more*** about this `license`, please ***visit*** [About CC Licenses](https://creativecommons.org/about/cclicenses/) on `Creative Commons`.
 
-+ The `CC By NC-SA` ***License***: (***aka*** `Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)`) this `license` ***allows*** `re-users` to ***distribute***, ***remix***, ***adapt***, and ***build upon*** the `material` in ***any*** `medium` or `format` for `NONCOMMERCIAL` purposes ***only***, and ***only*** so long as `ATTRIBUTION` is *`GIVEN`* to the `CREATOR`. If one ***wants*** to ***remix***, ***adapt***, or ***build upon*** the `material`, one ***must*** `license` the *`modified`* `material` under ***identical terms*** as the *`unmodified`* `material`. To ***learn more*** about this `license`, please ***visit*** [About CC Licenses](https://creativecommons.org/about/cclicenses/) on `Creative Commons`.
++ The `CC BY-NC-SA` ***License***: (***aka*** `Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)`) this `license` ***allows*** `re-users` to ***distribute***, ***remix***, ***adapt***, and ***build upon*** the `material` in ***any*** `medium` or `format` for `NONCOMMERCIAL` purposes ***only***, and ***only*** so long as `ATTRIBUTION` is *`GIVEN`* to the `CREATOR`. If one ***wants*** to ***remix***, ***adapt***, or ***build upon*** the `material`, one ***must*** `license` the *`modified`* `material` under ***identical terms*** as the *`unmodified`* `material`. To ***learn more*** about this `license`, please ***visit*** [About CC Licenses](https://creativecommons.org/about/cclicenses/) on `Creative Commons`.
 
-+ The `CC BY ND` ***License***: (***aka*** `Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)`) this `license` ***allows*** `re-users` to ***copy*** and ***distribute*** `material` in ***any*** `medium` or `format` in *`UNADAPTED FORM ONLY`*, and ***only*** so long as `ATTRIBUTION` is *`GIVEN`* to the `CREATOR`. The `license` *`ALLOWS`* for `COMMERCIAL` ***use***. To ***learn more*** about this `license`, please ***visit*** [About CC Licenses](https://creativecommons.org/about/cclicenses/) on *`Creative Commons`*.
++ The `CC BY-ND` ***License***: (***aka*** `Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)`) this `license` ***allows*** `re-users` to ***copy*** and ***distribute*** `material` in ***any*** `medium` or `format` in *`UNADAPTED FORM ONLY`*, and ***only*** so long as `ATTRIBUTION` is *`GIVEN`* to the `CREATOR`. The `license` *`ALLOWS`* for `COMMERCIAL` ***use***. To ***learn more*** about this `license`, please ***visit*** [About CC Licenses](https://creativecommons.org/about/cclicenses/) on *`Creative Commons`*.
 
 + The `CC BY-NC-ND` ***License***: (***aka*** `Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)`) this `license` ***allows*** `re-users` to ***copy*** and ***distribute*** the `material` in ***any*** `medium` or `format` in *`UNADAPTED FORM ONLY`*, for *`NONCOMMERCIAL`* purposes ***only***, and ***only*** so long as `ATTRIBUTION` is *`GIVEN`* to the `CREATOR`. To ***learn more*** about this `license`, please ***visit*** [About CC Licenses](https://creativecommons.org/about/cclicenses/) on `Creative Commons`.
 
@@ -212,7 +216,7 @@ One can ***use*** `CC-licensed` ***materials*** as long as one *`FOLLOWS`* the `
     
 I ***wanted*** to ***create*** a `caption` for a `CC-licensed` (*`Creative Commons`*) `image` I ***found*** in [CC Search](https://search.creativecommons.org/), so I ***wrapped*** the `img element` ***inside*** a `figure element`, and ***under*** the `img element`, I ***added*** a `figcaption element`.
 
-[figure](https://www.w3schools.com/tags/tag_figure.asp): (***aka*** `figure with optional caption`) ***represents*** `self-contained content`, with an ***optional*** `caption` (`figcaption element`). the `figure`, its `caption`, and its `contents` are ***referenced*** as a `single unit`.
+[figure element](https://www.w3schools.com/tags/tag_figure.asp): (***aka*** `figure with optional caption`) ***represents*** `self-contained content`, with an ***optional*** `caption` (`figcaption element`). the `figure`, its `caption`, and its `contents` are ***referenced*** as a `single unit`.
 
 ***While*** the `content` of the `figure element` is ***related*** to the ***main flow*** of the `document`, its `position` is ***independent*** of the `main flow`, and if ***removed***, it should ***not*** `affect` the ***flow*** of the `document`.
 
@@ -252,5 +256,7 @@ I ***wanted*** to ***create*** a `caption` for a `CC-licensed` (*`Creative Commo
 + [`<figure>`: The Figure with Optional Caption element: MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
 
 + [HTML `<figcaption>` Tag: w3schools](https://www.w3schools.com/tags/tag_figcaption.asp)
+
++ [What do the R-symbol and the TM symbol mean?: Law For Small Business](https://www.l4sb.com/blog/r-symbol-tm-symbol-meanings/)
 
 </section>
