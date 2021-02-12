@@ -231,17 +231,214 @@ I ***wanted*** to ***create*** a `caption` for a `CC-licensed` (*`Creative Commo
 ---
 
 <section class="section">
+    <h2 class="sentence">Using the figure element with a single image</h2>
+    
+```html
+<figure>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Yorkshire_pigs_at_animal_sanctuary.jpg" alt="File:Yorkshire pigs at animal sanctuary.jpg">
+    <figcaption>
+        <a a href="https://commons.wikimedia.org/w/index.php?curid=11762434">"File:Yorkshire pigs at animal sanctuary.jpg"</a> <span class="location">by</span> <a href="https://www.flickr.com/photos/28267496@N00">Mark Peters</a> <span class="location">from Baltimore, USA is</span> <a href="https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich">licensed under CC BY 2.0</a>
+    </figcaption>
+</figure>
+```
+
+```css
+body {
+    background: #fec619;
+}
+a {
+    color: #a10ebd;
+}
+/* image styling */
+img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 800px;
+}
+figure {
+    display: block;
+    margin: 3rem auto;
+    width: 90%;
+    max-width: 800px;
+    border: 1px solid;
+}
+figcaption {
+    text-align: center;
+    width: 90%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+span.location {
+    font-style: italic;
+}
+```
+
+</section>
+
+---
+
+<section class="section">
+    <h2 class="sentence">Using the section element to group multiple figure elements</h2>
+    
+If we ***want*** to ***display*** an `image gallery` ***using*** a `simple layout`, we ***can use*** the `section element` to ***wrap around*** a ***number*** of `figure elements`, ***each*** `figure element` ***containing*** an `img element` and a `figcaption`. ***This way***, we ***can also*** `"section"` our `image gallery` into ***categories***.
+
+The **HTML**:
+
+```html
+<section>
+    <figure>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Yorkshire_pigs_at_animal_sanctuary.jpg" alt="File:Yorkshire pigs at animal sanctuary.jpg">
+        <figcaption>
+            <a a href="https://commons.wikimedia.org/w/index.php?curid=11762434">"File:Yorkshire pigs at animal sanctuary.jpg"</a> <span class="location">by</span> <a href="https://www.flickr.com/photos/28267496@N00">Mark Peters</a> <span class="location">from Baltimore, USA is</span> <a href="https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich">licensed under CC BY 2.0</a>
+        </figcaption>
+    </figure>
+    <figure>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Yorkshire_pigs_at_animal_sanctuary.jpg" alt="File:Yorkshire pigs at animal sanctuary.jpg">
+        <figcaption>
+            <a a href="https://commons.wikimedia.org/w/index.php?curid=11762434">"File:Yorkshire pigs at animal sanctuary.jpg"</a> <span class="location">by</span> <a href="https://www.flickr.com/photos/28267496@N00">Mark Peters</a> <span class="location">from Baltimore, USA is</span> <a href="https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich">licensed under CC BY 2.0</a>
+        </figcaption>
+    </figure>
+    <figure>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Yorkshire_pigs_at_animal_sanctuary.jpg" alt="File:Yorkshire pigs at animal sanctuary.jpg">
+        <figcaption>
+            <a a href="https://commons.wikimedia.org/w/index.php?curid=11762434">"File:Yorkshire pigs at animal sanctuary.jpg"</a> <span class="location">by</span> <a href="https://www.flickr.com/photos/28267496@N00">Mark Peters</a> <span class="location">from Baltimore, USA is</span> <a href="https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich">licensed under CC BY 2.0</a>
+        </figcaption>
+    </figure>
+</section>
+```
+
+The `"sectioning"` ***can*** be ***repeated*** as ***many times*** as ***needed***.
+
+The **CSS**:
+
+```css
+body {
+    background: #fec619;
+}
+a {
+    color: #a10ebd;
+}
+
+section {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+/* image styling */
+img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 800px;
+}
+figure {
+    display: block;
+    margin: 3rem auto;
+    width: 90%;
+    max-width: 800px;
+    border: 1px solid;
+}
+figcaption {
+    text-align: center;
+    width: 90%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+span.location {
+    font-style: italic;
+}
+```
+
+</section>
+
+---
+
+<section class="section">
+    <h2 class="sentence">Arranging the Portfolio Gallery with CSS Grid</h2>
+    
+You ***may*** have ***noticed*** in the ***previous slide*** that ***there was*** some ***new*** `CSS property declarations` ***introduced***. ***Specifically***:
+
+```css
+section {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+```
+
+A [CSS Grid Layout Module](https://www.w3schools.com/css/css_grid.asp) (***aka*** `CSS Grid`) ***offers*** a `grid-based` ***layout system***, with `rows` and `columns`, ***making*** it ***easier*** to ***design*** `web pages` ***without having*** to ***use*** `floats` and `positioning`. 
+
+A `grid layout` ***consists*** of a `parent element` (in ***our case***, the `section element`), ***with one*** or ***more*** `child elements` (in ***our case***, ***three*** `figure elements`).
+
+</section>
+
+---
+
+<section class="section">
+    <h2 class="sentence">The display property and CSS Grid</h2>
+    
+An `element` ***becomes*** a `grid container` ***when*** its `display property`'s `value` is ***set*** to `grid`. This is ***what*** we are ***doing*** with the `section CSS element selector`. ***All*** `direct children` of the `grid container` ***automatically become*** `grid items` (in ***our case***, it is the `figure elements`).
+
+```css
+section {
+    display: grid;
+}
+```
+
+***However***, ***unlike*** `Flexbox`, which would ***actually change*** the `layout` of the `figure elements` ***with*** the ***property declaration*** `display: flex` (we will be ***discussing*** `Flexbox` in our ***fourth*** `class` ***session***), we ***need*** to ***specify*** the ***number*** of `columns` or `rows` of ***our*** `grid` and a ***space-separated*** `list` of `values`. If we ***don't specify*** the `number` of `columns` or `rows`, ***only*** `one column` will be ***displayed***, with ***as many*** `rows` as `grid items` ***within*** the `grid container`(s). In the ***case*** of ***our example***, it ***would be*** `one column` and `9 rows`.
+
+</section>
+
+---
+
+<section class="section">
+    <h2 class="sentence">The grid-template-columns property and CSS Grid</h2>
+    
+The ***second*** `CSS property declaration` ***introduced*** in the `section CSS rule set` is
+
+```css
+section {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+```
+
+The `grid-template-columns property` ***defines*** the `columns` with a ***space-separated*** `list` of `values` (***as*** the `value `of ***ours*** is ***defined above***).
+
+Our `grid-template-columns` ***value*** is ***very*** `straightforward` and `simple`. We ***want*** to ***repeat*** the ***same definition*** `3 times` (***meaning*** we are ***defining*** `3 columns`). We ***also set*** `1fr` to ***each*** of our ***columns***. 
+
+</section>
+
+---
+
+<section class="section">
+    <h2 class="sentence">1fr and CSS Grid</h2>
+
+`fr` is a `fraction unit` in `CSS Grid`. It ***can*** be ***used*** when ***defining*** `grids` like ***any other*** `CSS Length` ***such as*** `px`, `%`, or `rem`.
+
+In the ***case*** of our `3 columns`, `1fr` ***means*** `33.33%`. We ***get*** to ***that*** `percentage` ***by dividing*** `100%` by `3`.
+
+The ***great thing*** about ***using*** `fr` is that ***if*** there was `overflow` ***previously*** on the `x-axis` of the `web page`, ***caused*** by ***defining*** a `grid-column-gap` ***property declaration*** on the `grid container`, ***because*** `setting` ***each column*** to `1fr` ***takes*** that `grid-column-gap` ***value*** into ***account automatically*** and ***subtracts*** it from the ***total width*** `available` for ***each column*** (***here*** it is `33.33%`).
+
+</section>
+
+---
+
+<section class="section">
     <h2 class="sentence">Related Resources</h2>
     
 + [Trademarks: WIPO](https://www.wipo.int/trademarks/en/)
 
-+ [TM versus R - what’s the difference and why does it matter?](https://www.trademarknow.com/blog/tm-versus-r-whats-the-difference-and-why-does-it-matter)
++ [TM versus R - what’s the difference and why does it matter?: TrademarkKnow](https://www.trademarknow.com/blog/tm-versus-r-whats-the-difference-and-why-does-it-matter)
 
 + [U.S. Copyright Office Definitions](https://www.copyright.gov/help/faq/definitions.html)
 
-+ [Copyright in General](https://www.copyright.gov/help/faq/faq-general.html)
++ [Copyright in General: U.S. Copyright Office](https://www.copyright.gov/help/faq/faq-general.html)
 
-+ [United States Patent and Trademark Office](https://www.uspto.gov/patents)
++ [United States Patent and Trademark Office: Patents](https://www.uspto.gov/patents)
 
 + [General information concerning patents: United States Patent and Trademark Office](https://www.uspto.gov/patents/basics)
 
@@ -258,5 +455,15 @@ I ***wanted*** to ***create*** a `caption` for a `CC-licensed` (*`Creative Commo
 + [HTML `<figcaption>` Tag: w3schools](https://www.w3schools.com/tags/tag_figcaption.asp)
 
 + [What do the R-symbol and the TM symbol mean?: Law For Small Business](https://www.l4sb.com/blog/r-symbol-tm-symbol-meanings/)
+
++ [The figure & figcaption elements: HTML5 Doctor](http://html5doctor.com/the-figure-figcaption-elements/)
+
++ [CSS Grid Layout: MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+
++ [CSS Grid Layout Module: w3schools](https://www.w3schools.com/css/css_grid.asp)
+
++ [A Complete Guide to Grid: CSS Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
++ [An Introduction to the `fr` CSS unit: CSS Tricks](https://css-tricks.com/introduction-fr-css-unit/)
 
 </section>
