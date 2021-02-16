@@ -107,11 +107,11 @@ A ***work*** goes ***under*** `copyright protection` the ***moment*** it is ***c
 ---
 
 <section class="section">
-    <h2 class="sentence">Does one have to register one's work with the Coyright Office?</h2>
+    <h2 class="sentence">Does one have to register one's work with the Copyright Office?</h2>
 
 One is ***not*** `required` to `register` ***work*** with the `U.S. Copyright Office`. It is ***voluntary***. ***However***, if one ***wants*** to be ***able*** to `sue` for `infringement` of a `U.S. work`, then one ***DOES*** have to ***register***.
 
-There are ***other*** reasons one would want to ***register*** one's `work`. To ***learn*** more about ***why***, please ***visit*** the `U.S. Copyright Office`'s article ***entitled*** [Copyright in General](https://www.copyright.gov/help/faq/faq-general.html) ***under*** the ***heading*** *`"Why should I register my work if copyright protection is automatic?"`*.
+There are ***other reasons*** one ***would want*** to ***register*** one's `work`. To ***learn*** more about ***why***, please ***visit*** the `U.S. Copyright Office`'s article ***entitled*** [Copyright in General](https://www.copyright.gov/help/faq/faq-general.html) ***under*** the ***heading*** *`"Why should I register my work if copyright protection is automatic?"`*.
 
 </section>
 
@@ -139,7 +139,7 @@ There are ***other*** reasons one would want to ***register*** one's `work`. To 
 <section class="section">
     <h2 class="sentence">Types of Patents</h2>
     
-There are [three types of patents](https://www.uspto.gov/patents/basics):
+***There are*** [three types of patents](https://www.uspto.gov/patents/basics):
 
 + `Utility patents`: may be ***granted*** to ***anyone*** who `invents` or `discovers` any ***new*** and ***useful*** `process`, `machine`, `article of manufacture`, or `composition of matter`, or any ***new*** and ***useful*** `improvement` ***thereof***.
 
@@ -205,7 +205,7 @@ Their [mission](https://creativecommons.org/about/) is to:
 <section class="section">
     <h2 class="sentence">How to attribute CC Sources</h2>
     
-One can ***use*** `CC-licensed` ***materials*** as long as one *`FOLLOWS`* the `LICENSING CONDITIONS`. ***One*** of the ***licensing conditions*** for ***all*** `CC licenses` is *`ATTRIBUTION`*. To ***view*** an `example `of an *`"ideal attribution"`* of a `CC-licensed` ***image*** by a `Flickr user`, we can ***visit*** the [Attributing Sources](https://creativecommons.org/use-remix/) ***page*** on *`Creative Commons`*.
+One ***can use*** `CC-licensed` ***materials*** as long as one *FOLLOWS* the `LICENSING CONDITIONS`. ***One*** of the ***licensing conditions*** for ***all*** `CC licenses` is *ATTRIBUTION*. To ***view*** an `example` of an "ideal attribution" of a `CC-licensed` ***image*** by a `Flickr user`, we can ***visit*** the [Attributing Sources](https://creativecommons.org/use-remix/) `page` on `Creative Commons`.
 
 </section>
 
@@ -214,7 +214,7 @@ One can ***use*** `CC-licensed` ***materials*** as long as one *`FOLLOWS`* the `
 <section class="section">
     <h2 class="sentence">Creating a caption for a CC-Licensed image</h2>
     
-I ***wanted*** to ***create*** a `caption` for a `CC-licensed` (*`Creative Commons`*) `image` I ***found*** in [CC Search](https://search.creativecommons.org/), so I ***wrapped*** the `img element` ***inside*** a `figure element`, and ***under*** the `img element`, I ***added*** a `figcaption element`.
+I ***wanted*** to ***create*** a `caption` for a `CC-licensed` (`Creative Commons`) `image` I ***found*** in [CC Search](https://search.creativecommons.org/), so I ***wrapped*** the `img element` ***inside*** a `figure element`, and ***under*** the `img element`, I ***added*** a `figcaption element`.
 
 [figure element](https://www.w3schools.com/tags/tag_figure.asp): (***aka*** `figure with optional caption`) ***represents*** `self-contained content`, with an ***optional*** `caption` (`figcaption element`). the `figure`, its `caption`, and its `contents` are ***referenced*** as a `single unit`.
 
