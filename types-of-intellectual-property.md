@@ -25,7 +25,7 @@ The <sup class="sup">®</sup> `symbol` ***indicates*** that a ***particular*** `
 
 <section class="section">
     <h2 class="sentence">Common Law Use and Trademarks</h2>
-    
+
 ***According*** to [TrademarkNow](https://www.trademarknow.com/blog/tm-versus-r-whats-the-difference-and-why-does-it-matter),
 
 > Online you may see many discussions which tend towards thinking that the use of such symbols is irrelevant (and indeed the registration of a trademark at all) and has no impact on the level of protection you enjoy. Perhaps that it is true in some regions but not in all.
@@ -41,10 +41,10 @@ In `"common law"` ***regions***, a `company` ***does*** `enjoy` ***some*** `prot
 
 <section class="section">
     <h2 class="sentence">Using <sup>™</sup> with an unregistered trademark</h2>
-    
+
 Using the <sup class="sup">™</sup> `symbol` with `unregistered trademarks` can be a ***signal*** to the `public` (and ***potential*** `infringers`) the `company` has the ***legalities*** of ***protecting*** the `brand` in ***mind***. This ***sometimes*** may `serve` as a ***deterrent*** to `infringement` of the ***mark***.
 
-In ***addition***, when ***creating*** a `brand`, one is ***creating*** an ***intangible*** but `material asset` of a `company`. 
+In ***addition***, when ***creating*** a `brand`, one is ***creating*** an ***intangible*** but `material asset` of a `company`.
 
 ***According*** to [TrademarkNow](https://www.trademarknow.com/blog/tm-versus-r-whats-the-difference-and-why-does-it-matter),
 
@@ -59,7 +59,7 @@ To ***learn*** more about `registered trademarks` vs `inregistered trademarks`, 
 
 <section class="section">
     <h2 class="sentence">The meaning of the <sup>©</sup> symbol</h2>
-    
+
 <sup>©</sup> ***stands*** for *`"Copyright"`*.
 
 ***According*** to the `U.S. Copyright Office` ***definition*** of *`"Copyright"`*,
@@ -78,7 +78,7 @@ To ***learn*** more about `registered trademarks` vs `inregistered trademarks`, 
 
 <section class="section">
     <h2 class="sentence">What <sup>©</sup> "Copyright" protects</h2>
-    
+
 > Copyright, which is a form of intellectual property law, protects original works, such as poetry, novels, movies, songs, computer software, and architecture. Copyright does not protect facts, ideas, systems, or methods of operation, although it may protect the way these things are expressed.
 > -- <cite>[Copyright in General](https://www.copyright.gov/help/faq/faq-general.html), U.S. Copyright Office, FAQs</cite>
 </section>
@@ -87,7 +87,7 @@ To ***learn*** more about `registered trademarks` vs `inregistered trademarks`, 
 
 <section class="section">
     <h2 class="sentence">How does copyright differ from a trademark?</h2>
-    
+
 > Copyright protects original works of authorship, ... A trademark protects words, phrases, symbols, or designs identifying the source of the goods or services of one party and distinguishing them from those of others.
 > -- <cite>[Copyright in General](https://www.copyright.gov/help/faq/faq-general.html) -- U.S. Copyright Office, FAQs</cite>
 
@@ -97,8 +97,8 @@ To ***learn*** more about `registered trademarks` vs `inregistered trademarks`, 
 
 <section class="section">
     <h2 class="sentence">When work is protected under Copyright law</h2>
-    
-A ***work*** goes ***under*** `copyright protection` the ***moment*** it is ***created*** and ***fixed*** in a `tangible way` (`indisputable proof` of the `creation date` ***along*** with the `creation` ***itself***), and it is 
+
+A ***work*** goes ***under*** `copyright protection` the ***moment*** it is ***created*** and ***fixed*** in a `tangible way` (`indisputable proof` of the `creation date` ***along*** with the `creation` ***itself***), and it is
 
 > perceptible either directly or with the aid of a machine or device.
 > -- <cite>[Copyright in General](https://www.copyright.gov/help/faq/faq-general.html) -- U.S. Copyright Office, FAQs</cite>
@@ -119,7 +119,7 @@ There are ***other reasons*** one ***would want*** to ***register*** one's `work
 
 <section class="section">
     <h2 class="sentence">Is a U.S. Copyright good in other countries?</h2>
-    
+
 > The United States has copyright relations with most countries throughout the world, and as a result of these agreements, we honor each other's citizens' copyrights. However, the United States does not have such copyright relationships with every country. For a listing of countries and the nature of their copyright relations with the United States, see [Circular 38a](https://www.copyright.gov/circs/circ38a.pdf), International Copyright Relations of the United States.
 . -- <cite>[Copyright in General](https://www.copyright.gov/help/faq/faq-general.html) -- U.S. Copyright Office, FAQs</cite>
 </section>
@@ -128,7 +128,7 @@ There are ***other reasons*** one ***would want*** to ***register*** one's `work
 
 <section class="section">
     <h2 class="sentence">The Patent type of intellectual property</h2>
-    
+
 > A patent is for an invention, and it is the grant of a property right to the inventor, issued by the United States Patent and Trademark Office. Generally, the term of a new patent is 20 years from the date on which the application for the patent was filed in the United States or, in special cases, from the date an earlier related application was filed, subject to the payment of maintenance fees. U.S. patent grants are effective only within the United States, U.S. territories, and U.S. possessions. Under certain circumstances, patent term extensions or adjustments may be available.
 > -- <cite>[United States Patent and Trademark Office](https://www.uspto.gov/patents/basics)</cite>
 
@@ -138,7 +138,7 @@ There are ***other reasons*** one ***would want*** to ***register*** one's `work
 
 <section class="section">
     <h2 class="sentence">Types of Patents</h2>
-    
+
 ***There are*** [three types of patents](https://www.uspto.gov/patents/basics):
 
 + `Utility patents`: may be ***granted*** to ***anyone*** who `invents` or `discovers` any ***new*** and ***useful*** `process`, `machine`, `article of manufacture`, or `composition of matter`, or any ***new*** and ***useful*** `improvement` ***thereof***.
@@ -153,13 +153,13 @@ There are ***other reasons*** one ***would want*** to ***register*** one's `work
 
 <section class="section">
     <h2 class="sentence">Creative Commons type of intellectual property</h2>
-    
+
 `Creative Commons` is a *`"nonprofit organization"`* that ***helps*** `overcome` ***legal*** `obstacles` to the ***sharing*** of `knowledge` and `creativity`.
 
 Their [mission](https://creativecommons.org/about/) is to:
 
 + ***provide*** `Creative Commons licenses` and `public domain tools` that ***give*** `every person` and `organization` in the ***world*** a `free`, `simple`, and ***standardized*** `way` to ***grant*** `copyright permissions` for `creative` and `academic works`. To ensure ***proper*** `attribution`, and ***allow others*** to `copy`, `distribute`, and `make use` of ***those works***.
-    
+
 + Work ***closely*** with` major institutions` and `governments` to `create`, `adopt` and `implement` ***open*** `licensing` and ***ensure*** the `CORRECT USE` of `CC Licenses` and `CC-licensed` ***content***.
 
 + ***Support*** the [CC Global Network](https://network.creativecommons.org/), a `community initiative` ***working*** to ***increase*** the `volume`, `breadth`, and `quality` of ***openly*** `available knowledge` ***worldwide***.
@@ -180,8 +180,8 @@ Their [mission](https://creativecommons.org/about/) is to:
 
 <section class="section">
     <h2 class="sentence">Types of Creative Commons Licenses</h2>
-    
-> Creative Commons licenses give everyone from individual creators to large institutions a standardized way to grant the public permission to use their creative work under copyright law. From the reuser’s perspective, the presence of a Creative Commons license on a copyrighted work answers the question, “What can I do with this work?” 
+
+> Creative Commons licenses give everyone from individual creators to large institutions a standardized way to grant the public permission to use their creative work under copyright law. From the reuser’s perspective, the presence of a Creative Commons license on a copyrighted work answers the question, “What can I do with this work?”
 > -- <cite>[About CC Licenses, Creative Commons](https://creativecommons.org/about/cclicenses/)</cite>
 
 + The `CC BY` ***License***: (***aka*** `Attribution 4.0 International (CC BY 4.0)`) this `license` ***allows*** `re-users` to ***distribute***, ***remix***, ***adapt***, and ***build upon*** the `material` in ***any*** `medium` or `format`, `SO LONG AS ATTRIBUTION` is *`GIVEN`* to the `CREATOR`. This ***license*** `ALLOWS FOR COMMERCIAL USE`. To ***learn more*** about ***this*** `license`, please ***visit*** [About CC Licenses](https://creativecommons.org/about/cclicenses/) on *`Creative Commons`*.
@@ -204,7 +204,7 @@ Their [mission](https://creativecommons.org/about/) is to:
 
 <section class="section">
     <h2 class="sentence">How to attribute CC Sources</h2>
-    
+
 One ***can use*** `CC-licensed` ***materials*** as long as one *FOLLOWS* the `LICENSING CONDITIONS`. ***One*** of the ***licensing conditions*** for ***all*** `CC licenses` is *ATTRIBUTION*. To ***view*** an `example` of an "ideal attribution" of a `CC-licensed` ***image*** by a `Flickr user`, we can ***visit*** the [Attributing Sources](https://creativecommons.org/use-remix/) `page` on `Creative Commons`.
 
 </section>
@@ -213,7 +213,7 @@ One ***can use*** `CC-licensed` ***materials*** as long as one *FOLLOWS* the `LI
 
 <section class="section">
     <h2 class="sentence">Creating a caption for a CC-Licensed image</h2>
-    
+
 I ***wanted*** to ***create*** a `caption` for a `CC-licensed` (`Creative Commons`) `image` I ***found*** in [CC Search](https://search.creativecommons.org/), so I ***wrapped*** the `img element` ***inside*** a `figure element`, and ***under*** the `img element`, I ***added*** a `figcaption element`.
 
 [figure element](https://www.w3schools.com/tags/tag_figure.asp): (***aka*** `figure with optional caption`) ***represents*** `self-contained content`, with an ***optional*** `caption` (`figcaption element`). the `figure`, its `caption`, and its `contents` are ***referenced*** as a `single unit`.
@@ -232,7 +232,7 @@ I ***wanted*** to ***create*** a `caption` for a `CC-licensed` (`Creative Common
 
 <section class="section">
     <h2 class="sentence">Using the figure element with a single image</h2>
-    
+
 ```html
 <figure>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Yorkshire_pigs_at_animal_sanctuary.jpg" alt="File:Yorkshire pigs at animal sanctuary.jpg">
@@ -282,7 +282,7 @@ span.location {
 
 <section class="section">
     <h2 class="sentence">Using the section element to group multiple figure elements</h2>
-    
+
 If we ***want*** to ***display*** an `image gallery` ***using*** a `simple layout`, we ***can use*** the `section element` to ***wrap around*** a ***number*** of `figure elements`, ***each*** `figure element` ***containing*** an `img element` and a `figcaption`. ***This way***, we ***can also*** `"section"` our `image gallery` into ***categories***.
 
 The **HTML**:
@@ -292,19 +292,19 @@ The **HTML**:
     <figure>
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Yorkshire_pigs_at_animal_sanctuary.jpg" alt="File:Yorkshire pigs at animal sanctuary.jpg">
         <figcaption>
-            <a a href="https://commons.wikimedia.org/w/index.php?curid=11762434">"File:Yorkshire pigs at animal sanctuary.jpg"</a> <span class="location">by</span> <a href="https://www.flickr.com/photos/28267496@N00">Mark Peters</a> <span class="location">from Baltimore, USA is</span> <a href="https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich">licensed under CC BY 2.0</a>
+            <p class="caption"<a href="https://commons.wikimedia.org/w/index.php?curid=11762434">"File:Yorkshire pigs at animal sanctuary.jpg"</a> <span class="location">by</span> <a href="https://www.flickr.com/photos/28267496@N00">Mark Peters</a> <span class="location">from Baltimore, USA is</span> <a href="https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich">licensed under CC BY 2.0</a></p>
         </figcaption>
     </figure>
     <figure>
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Yorkshire_pigs_at_animal_sanctuary.jpg" alt="File:Yorkshire pigs at animal sanctuary.jpg">
         <figcaption>
-            <a a href="https://commons.wikimedia.org/w/index.php?curid=11762434">"File:Yorkshire pigs at animal sanctuary.jpg"</a> <span class="location">by</span> <a href="https://www.flickr.com/photos/28267496@N00">Mark Peters</a> <span class="location">from Baltimore, USA is</span> <a href="https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich">licensed under CC BY 2.0</a>
+            <p class="caption"<a href="https://commons.wikimedia.org/w/index.php?curid=11762434">"File:Yorkshire pigs at animal sanctuary.jpg"</a> <span class="location">by</span> <a href="https://www.flickr.com/photos/28267496@N00">Mark Peters</a> <span class="location">from Baltimore, USA is</span> <a href="https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich">licensed under CC BY 2.0</a></p>
         </figcaption>
     </figure>
     <figure>
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Yorkshire_pigs_at_animal_sanctuary.jpg" alt="File:Yorkshire pigs at animal sanctuary.jpg">
         <figcaption>
-            <a a href="https://commons.wikimedia.org/w/index.php?curid=11762434">"File:Yorkshire pigs at animal sanctuary.jpg"</a> <span class="location">by</span> <a href="https://www.flickr.com/photos/28267496@N00">Mark Peters</a> <span class="location">from Baltimore, USA is</span> <a href="https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich">licensed under CC BY 2.0</a>
+            <p class="caption"<a href="https://commons.wikimedia.org/w/index.php?curid=11762434">"File:Yorkshire pigs at animal sanctuary.jpg"</a> <span class="location">by</span> <a href="https://www.flickr.com/photos/28267496@N00">Mark Peters</a> <span class="location">from Baltimore, USA is</span> <a href="https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich">licensed under CC BY 2.0</a></p>
         </figcaption>
     </figure>
 </section>
@@ -359,7 +359,7 @@ span.location {
 
 <section class="section">
     <h2 class="sentence">Arranging the Portfolio Gallery with CSS Grid</h2>
-    
+
 You ***may*** have ***noticed*** in the ***previous slide*** that ***there was*** some ***new*** `CSS property declarations` ***introduced***. ***Specifically***:
 
 ```css
@@ -369,7 +369,7 @@ section {
 }
 ```
 
-A [CSS Grid Layout Module](https://www.w3schools.com/css/css_grid.asp) (***aka*** `CSS Grid`) ***offers*** a `grid-based` ***layout system***, with `rows` and `columns`, ***making*** it ***easier*** to ***design*** `web pages` ***without having*** to ***use*** `floats` and `positioning`. 
+A [CSS Grid Layout Module](https://www.w3schools.com/css/css_grid.asp) (***aka*** `CSS Grid`) ***offers*** a `grid-based` ***layout system***, with `rows` and `columns`, ***making*** it ***easier*** to ***design*** `web pages` ***without having*** to ***use*** `floats` and `positioning`.
 
 A `grid layout` ***consists*** of a `parent element` (in ***our case***, the `section element`), ***with one*** or ***more*** `child elements` (in ***our case***, ***three*** `figure elements`).
 
@@ -379,7 +379,7 @@ A `grid layout` ***consists*** of a `parent element` (in ***our case***, the `se
 
 <section class="section">
     <h2 class="sentence">The display property and CSS Grid</h2>
-    
+
 An `element` ***becomes*** a `grid container` ***when*** its `display property`'s `value` is ***set*** to `grid`. This is ***what*** we are ***doing*** with the `section CSS element selector`. ***All*** `direct children` of the `grid container` ***automatically become*** `grid items` (in ***our case***, it is the `figure elements`).
 
 ```css
@@ -396,7 +396,7 @@ section {
 
 <section class="section">
     <h2 class="sentence">The grid-template-columns property and CSS Grid</h2>
-    
+
 The ***second*** `CSS property declaration` ***introduced*** in the `section CSS rule set` is
 
 ```css
@@ -408,7 +408,7 @@ section {
 
 The `grid-template-columns property` ***defines*** the `columns` with a ***space-separated*** `list` of `values` (***as*** the `value `of ***ours*** is ***defined above***).
 
-Our `grid-template-columns` ***value*** is ***very*** `straightforward` and `simple`. We ***want*** to ***repeat*** the ***same definition*** `3 times` (***meaning*** we are ***defining*** `3 columns`). We ***also set*** `1fr` to ***each*** of our ***columns***. 
+Our `grid-template-columns` ***value*** is ***very*** `straightforward` and `simple`. We ***want*** to ***repeat*** the ***same definition*** `3 times` (***meaning*** we are ***defining*** `3 columns`). We ***also set*** `1fr` to ***each*** of our ***columns***.
 
 </section>
 
@@ -429,7 +429,7 @@ The ***great thing*** about ***using*** `fr` is that ***if*** there was `overflo
 
 <section class="section">
     <h2 class="sentence">Related Resources</h2>
-    
+
 + [Trademarks: WIPO](https://www.wipo.int/trademarks/en/)
 
 + [TM versus R - what’s the difference and why does it matter?: TrademarkKnow](https://www.trademarknow.com/blog/tm-versus-r-whats-the-difference-and-why-does-it-matter)
