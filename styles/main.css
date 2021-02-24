@@ -54,6 +54,13 @@ figcaption {
     word-break: break-word;
 }
 
+p.caption a {
+    font-style: italic;
+    font-family: monospace;
+    padding: 0;
+	text-align: center;
+}
+
 span.location {
     font-style: italic;
     font-family: monospace;
