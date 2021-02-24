@@ -237,7 +237,7 @@ I ***wanted*** to ***create*** a `caption` for a `CC-licensed` (`Creative Common
 <figure>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Yorkshire_pigs_at_animal_sanctuary.jpg" alt="File:Yorkshire pigs at animal sanctuary.jpg">
     <figcaption>
-        <a a href="https://commons.wikimedia.org/w/index.php?curid=11762434">"File:Yorkshire pigs at animal sanctuary.jpg"</a> <span class="location">by</span> <a href="https://www.flickr.com/photos/28267496@N00">Mark Peters</a> <span class="location">from Baltimore, USA is</span> <a href="https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich">licensed under CC BY 2.0</a>
+        <p class="caption"><a href="https://commons.wikimedia.org/w/index.php?curid=11762434">"File:Yorkshire pigs at animal sanctuary.jpg"</a> <span class="location">by</span> <a href="https://www.flickr.com/photos/28267496@N00">Mark Peters</a> <span class="location">from Baltimore, USA is</span> <a href="https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich">licensed under CC BY 2.0</a></p>
     </figcaption>
 </figure>
 ```
@@ -271,6 +271,14 @@ figcaption {
     padding-top: 1rem;
     padding-bottom: 1rem;
 }
+
+p.caption a {
+    font-style: italic;
+    font-family: monospace;
+    padding: 0;
+	text-align: center;
+}
+
 span.location {
     font-style: italic;
 }
@@ -348,6 +356,14 @@ figcaption {
     padding-top: 1rem;
     padding-bottom: 1rem;
 }
+
+p.caption a {
+    font-style: italic;
+    font-family: monospace;
+    padding: 0;
+	text-align: center;
+}
+
 span.location {
     font-style: italic;
 }
